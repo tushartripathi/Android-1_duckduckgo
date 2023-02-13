@@ -15,15 +15,12 @@ Alternatively, if you already have the project checked out, you can initialize t
     git submodule update --init
     
 ## Terminology
-
 We have taken steps to update our terminology and remove words with problematic racial connotations, most notably the change to `main` branches, `allow lists`, and `blocklists`. Closed issues or PRs may contain deprecated terminology that should not be used going forward.
 
 ## Contribute
-
 Please refer to [contributing](CONTRIBUTING.md).
 
 ## Discuss
-
 Contact us at https://duckduckgo.com/feedback if you have feedback, questions or want to chat. You can also use the feedback form embedded within our Mobile App - to do so please navigate to Settings and select "Leave Feedback".
 
 ## License

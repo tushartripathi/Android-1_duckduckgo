@@ -56,6 +56,7 @@ enum class AppPixelName(override val pixelName: String) : Pixel.PixelName {
     WIDGETS_ADDED(pixelName = "m_w_a"),
     FAVORITES_WIDGETS_ADDED(pixelName = "m_sfw_a"),
     WIDGETS_DELETED(pixelName = "m_w_d"),
+
     FAVORITE_WIDGET_CONFIGURATION_SHOWN(pixelName = "m_sfw_cs"),
     FAVORITES_WIDGETS_LIGHT(pixelName = "m_sfw_l"),
     FAVORITES_WIDGETS_DARK(pixelName = "m_sfw_dk"),

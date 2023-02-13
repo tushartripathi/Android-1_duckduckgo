@@ -39,6 +39,7 @@ class AndroidWorkScheduler @Inject constructor(
     @AppCoroutineScope private val appCoroutineScope: CoroutineScope,
     private val notificationScheduler: AndroidNotificationScheduler,
     private val jobCleaner: JobCleaner,
+
     private val dispatcherProvider: DispatcherProvider = DefaultDispatcherProvider(),
 ) : MainProcessLifecycleObserver {
 
